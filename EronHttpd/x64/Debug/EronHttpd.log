@@ -1,0 +1,10 @@
+﻿  Httpd.cpp
+D:\Desktop\CodeSpace\C++\EronHttpd\EronHttpd\Httpd.cpp(42,23): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\Desktop\CodeSpace\C++\EronHttpd\EronHttpd\Httpd.cpp(121,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\CodeSpace\C++\EronHttpd\EronHttpd\Httpd.cpp(134,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\CodeSpace\C++\EronHttpd\EronHttpd\Httpd.cpp(146,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\CodeSpace\C++\EronHttpd\EronHttpd\Httpd.cpp(156,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\CodeSpace\C++\EronHttpd\EronHttpd\Httpd.cpp(217,16): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\Desktop\CodeSpace\C++\EronHttpd\EronHttpd\Httpd.cpp(293,25): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\Desktop\CodeSpace\C++\EronHttpd\EronHttpd\Httpd.cpp(300,82): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+  EronHttpd.vcxproj -> D:\Desktop\CodeSpace\C++\EronHttpd\x64\Debug\EronHttpd.exe
